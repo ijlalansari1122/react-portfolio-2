@@ -8,8 +8,6 @@ import Certs from './components/Certs';
 import Footer from './components/Footer';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-0
-
 function App() {
     useEffect(() => {
       document.title = 'Ijlal ansari';
